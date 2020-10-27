@@ -1,3 +1,8 @@
+### _config.yml
+```yaml
+theme: jekyll-theme-minimal
+```
+
 ### System Info
 MacOS 10.15.6
 
@@ -13,7 +18,7 @@ $ rbenv version
 gem "github-pages", "~> 209"
 ```
 
-### Jekyll Output
+### Jekyll Build Output
 ```bash
 ~/.../devo/ideas on gh-pages*
 $ bundle exec jekyll serve
